@@ -78,6 +78,8 @@
 
 <h2 align="center">🌍 Languages</h2>
 <p align="center">
-  UK <strong>English</strong><br/>
-  <em>Advanced proficiency</em>
+  UK <strong>English</strong>
+  <em>Advanced proficiency</em><br/>
+    pt <strong>Portuguese</strong>
+  <em>Native</em>
 </p>
