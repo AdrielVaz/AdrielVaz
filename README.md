@@ -233,6 +233,7 @@ const adriel = {
 |----------|-------|
 | 🇧🇷 Portuguese | Native |
 | 🇺🇸 English | Advanced |
+| es spanish | begginer |
 
 </div>
 
