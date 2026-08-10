@@ -159,6 +159,44 @@ const adriel = {
       <img src="https://img.shields.io/badge/TCC_Project-blueviolet?style=for-the-badge"/>
     </td>
   </tr>
+  ```html
+<tr>
+  <td width="50%" valign="top">
+    <h3>🇯🇵 KanjiLearner — Japanese Learning Platform</h3>
+    <p>
+      Interactive Japanese learning platform built with <strong>Angular 17+</strong>, focused on studying
+      <strong>Kanji, Hiragana, and Katakana</strong>. Features JLPT-based kanji levels, interactive flashcards,
+      quizzes, stroke order practice, vocabulary examples with furigana, and progress tracking to support
+      consistent Japanese study. Deployed in production on Vercel.
+    </p>
+    <p>
+      <img src="https://img.shields.io/badge/Angular_17+-DD0031?style=flat&logo=angular&logoColor=white"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Vercel-000?style=flat&logo=vercel&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JLPT-N5%20%7C%20N4%20%7C%20N3-E60012?style=flat"/>
+    </p>
+    <a href="https://kanji-for-learn.vercel.app/home">
+      <img src="https://img.shields.io/badge/Live_Demo-00e5a0?style=for-the-badge&logo=vercel&logoColor=black"/>
+    </a>
+  </td>
+
+  <td width="50%" valign="top">
+    <h3>🏛️ Cabinet Management System — TCC</h3>
+    <p>
+      Served as <strong>Project Manager (PM)</strong> in a system developed to streamline internal management
+      of a government cabinet. Responsible for team organization, client meetings, UI/UX design, and active
+      development across both backend and frontend layers.
+    </p>
+    <p>
+      <img src="https://img.shields.io/badge/Fullstack-6c63ff?style=flat&logo=stackblitz&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Scrum-6DB33F?style=flat&logo=scrumalliance&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
+    </p>
+    <img src="https://img.shields.io/badge/TCC_Project-blueviolet?style=for-the-badge"/>
+  </td>
+</tr>
+```
+
 </table>
 
 ---
